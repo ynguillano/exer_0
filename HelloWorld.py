@@ -1,0 +1,1 @@
+print ("EARTH NIS FLAT = FALSE")
